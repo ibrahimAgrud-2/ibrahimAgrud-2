@@ -4,11 +4,9 @@
 
 Oh! Hi there :wave:
 
-I'm **Ibrahim Agrud**, a Computer Engineering student at Selçuk University and an aspiring **backend developer**. I love building structured, maintainable software — the kind where every layer has a clear job and the architecture still makes sense six months later. :sweat_smile:
+I'm **Ibrahim Agrud**, a Computer Engineering student at Selçuk University and a **backend developer**. I love building structured, maintainable software — the kind where every layer has a clear job and the architecture still makes sense six months later. :sweat_smile:
 
-I spend most of my time deep in **C#, SQL Server, and clean architecture**, turning real-world problems into well-organized applications. Outside of code, I share my journey on YouTube, interpret at international events, and never miss a chance to play table tennis. :handshake:
-
-> _**Make a positive difference every single day: keep learning, keep building.**_
+I spend most of my time in **C#, SQL Server, and clean architecture**, turning real-world problems into well-organized applications. Outside of code, I share my journey on YouTube, interpret at international events, and never miss a chance to play table tennis. :handshake:
 
 ---
 
@@ -23,44 +21,6 @@ I spend most of my time deep in **C#, SQL Server, and clean architecture**, turn
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-- **Languages & Tools:** C# · C++ · SQL Server · ADO.NET · Git · GitHub · Excel
-- **Architecture:** 3-Tier Architecture · OOP (Inheritance, Polymorphism) · Relational DB design · CRUD
-- **Currently learning:** Advanced SQL & backend patterns
-- **Spoken languages:** Turkish (Native) · English (C1) · Arabic (C1)
-
----
-
-### 🚀 What I've been building
-
-I learn by building complete, real-world projects rather than isolated exercises. A few highlights:
-
-#### 🏦 Bank Management System &nbsp;`C++ · OOP`
-A role-based banking system where admins manage users (create, delete, update, assign roles) and users handle core operations like deposits, withdrawals, and password changes.
-- Organized **150+ functions into 30 distinct classes** for a maintainable structure
-- Implemented **role authorization using bitwise operators** to control permission levels
-- Applied **Inheritance and Polymorphism** to improve security, scalability, and maintainability
-
-#### 📇 Contact Management Application &nbsp;`C# · SQL Server · ADO.NET · 3-Tier`
-A contact manager built on a clean **3-Tier Architecture** (Data Access, Business Logic, Presentation).
-- Established **clear separation and controlled interaction between layers**
-- Designed for maintainability, scalability, and a sustainable architecture
-
-#### 🚗 Driver License Management System &nbsp;`C# · SQL Server · ADO.NET · 3-Tier` &nbsp;*(in progress)*
-Bringing together everything I've learned — C#, SQL Server, ADO.NET, and 3-Tier Architecture — into one comprehensive application.
-- Heavy focus on **database design**: a structured, scalable relational schema that drives the whole system
-
----
-
-### 📚 How I'm growing
-
-I take structured learning seriously. Some of the programs that shaped me:
-
-- **C++ — Fundamentals (programmingadvices.com):** 158-hour intensive covering functional programming, OOP, and data structures. Solved **700+ problems** and built **7 projects**.
-- **C# — Backend:** 6 projects focused on connecting UI controls with application logic.
-- **SQL — Database Level 1:** Hands-on database design, table creation, and CRUD operations with SQL Server.
-- **Pergel Fellowship 2025 & YetGen 21st Century Program:** Sharpening teamwork, communication, and leadership alongside the technical side.
-
----
 
 ### 🎥 Find me online
 
@@ -87,10 +47,4 @@ I run a YouTube channel, **Solid Code**, where I explain the implementation proc
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimagrud&theme=holi&layout=compact&title_color=24FEFD&hide_border=true" alt="Top Languages" />
-</p>
-
-### :trophy: GitHub Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ibrahimagrud&theme=darkhub&rank=S,SS,SSS,A,AA,AAA&no-bg=true" alt="GitHub Trophies" />
 </p>
