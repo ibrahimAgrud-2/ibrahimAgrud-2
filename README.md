@@ -36,15 +36,3 @@ I run a YouTube channel, **Solid Code**, where I explain the implementation proc
     <a href="mailto:ibrahimagrud34@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-### :star2: GitHub Stats
-
-<p align="center">
-    <img width="400" src="https://streak-stats.demolab.com?user=ibrahimagrud&theme=holi-theme&ring=24FEFD&border=24FEFD&sideNums=24FEFD&currStreakNum=24FEFD&hide_border=true" alt="GitHub Streak" />
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=ibrahimagrud&theme=holi&show_icons=true&title_color=24FEFD&icon_color=24FEFD&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimagrud&theme=holi&layout=compact&title_color=24FEFD&hide_border=true" alt="Top Languages" />
-</p>
