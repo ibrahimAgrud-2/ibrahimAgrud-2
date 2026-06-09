@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=24FEFD&center=true&vCenter=true&width=500&lines=Hi!+I'm+Ibrahim!+Nice+to+meet+you+%F0%9F%91%8B;Computer+Engineering+student+%F0%9F%8E%93;Full+stack+developer+in+the+making...+%F0%9F%AA%84;C%23+%2B+SQL+Server+is+my+jam!+%F0%9F%92%BB" alt="Animated header: Hi! I'm Ibrahim! Computer Engineering student, backend developer in the making, C# + SQL Server is my jam!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=24FEFD&center=true&vCenter=true&width=500&lines=Hi!+I'm+Ibrahim!+Nice+to+meet+you+%F0%9F%91%8B;Computer+Engineering+student+%F0%9F%8E%93;Full+stack+developer+in+the+making...+%F0%9F%AA%84;C%23+%2B+SQL+Server+is+my+jam!+%F0%9F%92%BB" alt="Animated header: Hi! I'm Ibrahim! Computer Engineering student, Full Stack Developer in the making, C# + SQL Server is my jam!" />
 </h1>
 
 Oh! Hi there :wave:
 
-I'm **Ibrahim Agrud**, a Computer Engineering student at Selçuk University and a **backend developer**. I love building structured, maintainable software — the kind where every layer has a clear job and the architecture still makes sense six months later. :sweat_smile:
+I'm **Ibrahim Agrud**, a Computer Engineering student at Selçuk University and a **full stack developer**. I love building structured, maintainable software — the kind where every layer has a clear job and the architecture still makes sense six months later. :sweat_smile:
 
 I spend most of my time in **C#, SQL Server, and clean architecture**, turning real-world problems into well-organized applications. Outside of code, I share my journey on YouTube, interpret at international events, and never miss a chance to play table tennis. :handshake:
 
