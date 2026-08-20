@@ -6,7 +6,7 @@ Oh! Hi there :wave:
 
 I'm **Ibrahim Agrud**, a Computer Engineering student at Selçuk University and a **full stack developer**. I love building structured, maintainable software — the kind where every layer has a clear job and the architecture still makes sense six months later. :sweat_smile:
 
-I spend most of my time in **C#, SQL Server, and clean architecture**, turning real-world problems into well-organized applications. Outside of code, I share my journey on YouTube, interpret at international events, and never miss a chance to play table tennis. :handshake:
+I spend most of my time in **C#, SQL Server, and clean architecture**, turning real-world problems into well-organized applications.
 
 ---
 
